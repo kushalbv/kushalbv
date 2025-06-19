@@ -11,7 +11,6 @@
 
 - 🎓 MCA student at **RV Institute of Technology and Management** (CGPA: 8.5)
 - 👨‍💻 Interned at **TechCiti Technologies Pvt Ltd** in **Data Science**
-- 📌 Currently building real-time health prediction systems & societal tech solutions
 
 ---
 
